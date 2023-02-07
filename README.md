@@ -6,12 +6,6 @@ Skills
 [HTML/CSS/JAVASCRIPT]
 [Python]
 
-Projects
-[Sorting Visualizer] - [Developed a sorting visualizer using the Python programming language and turtle library to demonstrate various
-sorting algorithms visually.]
-
-[Inventory Management System] - [Developed an Inventory Management System using Java to keep track of inventory items and their quantities.]
-
 Education
 [SUNY New Paltz] - Bachelor of Science in Computer Science (Expected Graduation: [2026])
 
