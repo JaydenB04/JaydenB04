@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Jayden Barnes
-- 👀 I’m interested in learing how the world works throght the lens of computer science
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me: barnesjayden89@gmail.com or barnesj3@newpaltz.edu
+[Jayden Barnes] - Computer Science Major
+I am a computer science student with a passion for technology and a drive to learn and create. My goal is to use my skills and knowledge to make a positive impact on the world.
 
-<!---
-JaydenB04/JaydenB04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+[Java]
+[HTML/CSS/JAVASCRIPT]
+[Python]
+
+Projects
+[Sorting Visualizer] - [Developed a sorting visualizer using the Python programming language and turtle library to demonstrate various
+sorting algorithms visually.]
+
+[Inventory Management System] - [Developed an Inventory Management System using Java to keep track of inventory items and their quantities.]
+
+Education
+[SUNY New Paltz] - Bachelor of Science in Computer Science (Expected Graduation: [2026])
+
+Contact
+[jaydencodes89@gmail.com]
+[(https://www.linkedin.com/in/jayden-barnes-a67056252/)]
+
+Feel free to reach out to me for any opportunities or collaborations!
+
+
+
